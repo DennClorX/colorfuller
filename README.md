@@ -18,7 +18,7 @@ Example
 ```js
 const colorfuller = require('colorfuller')
 
-const textColor = colorfuller.text('Hello World!', "cyan")
+const textColor = colorfuller.txt('Hello World!', "cyan")
 console.log(textColor)
 ```
 
